@@ -1,0 +1,121 @@
+body {
+	font-family: "Poppins", sans-serif;
+		background-color: #f0f4f8; /* Fundo claro */
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.container {
+	width: 80%;
+	max-width: 800px;
+	background-color: #ffffff;
+	padding: 20px;
+	margin-top: 20px;
+	border-radius: 12px;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+	border-top: 8px solid #722f37;
+	
+}
+
+h1 {
+	text-align: center;
+	color: #722F37;
+	font-weight: 600;
+	
+} 
+
+h2 {
+color: #333;
+	  margin-bottom: 10px;
+	border-bottom: 3px dashed #722f37;
+	display: inline-block;
+	padding-bottom: 5px;
+	
+}
+
+table{ 
+	width: 100%;
+	margin-bottom: 20px;
+	border-collapse;
+	 
+} 
+
+td {
+	padding: 10px;
+	border-bottom: 3px dashed #ddd;
+} /* Para mudar a expessura da linha entre RA, Curso periodo atual e etc... */
+
+ul {
+	list-style-type: square;
+	margin-left: 20px
+		
+}
+
+p { 
+	line-height: 1.8;
+	color: #000000;
+	
+}
+
+button{
+	font-family: “ Poppins”, sans-serif;
+	margin: 10px 0;
+	padding: 10px 15px;
+	background-color: #722f37;
+	color: white;
+	border: none;
+	border-radius: 30px;
+	curso: pointer;
+
+}
+img.profile-pic{
+width:150px;
+height:150px;
+border-radius: 60%;
+display: block;
+margin: 20px auto;
+border: 4px solid #722f37; /* Borda da minha ft de perfil*/
+cursor: pointer;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left:0;
+  top: 0;
+  width:100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+  
+}
+
+.modal-content {
+  display: block;
+  margin: auto;
+  width: 80%;
+  max-width: 700px;
+  
+}
+
+#closeBtn {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #0077b5;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+.social-links a{
+	color: #0077b5;
+text-decoration: none;
+	font-weight:600;
+display: inline-block;
+	margin-right: 1opx;
+	transition: color 0.3s;
