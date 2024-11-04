@@ -1,5 +1,14 @@
-<<<<<<< HEAD
-# testeeUntitled
+Projeto: Perfil do Aluno
+
+Este projeto foi desenvolvido por mim, representando uma oportunidade de aprofundar minhas habilidades em HTML, CSS e JavaScript. Desde a concepção da ideia até a sua implementação, a estilização e a funcionalidade foram resultado de um processo criativo e técnico próprio.
+
+Durante o desenvolvimento, enfrentei desafios em algumas partes do código, o que me levou a buscar soluções na internet e aprender mais sobre as linguagens. Todo o processo de desenvolvimento foi realizado em aproximadamente uma semana.
+
+O código-fonte do projeto está organizado nas pastas src (arquivos de desenvolvimento) e dist (arquivos prontos para distribuição e uso).
+
+
+
+Segue abaixo link do projeto no codepen:
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/matheus-mendes-the-styleful/pen/zYgjVwZ](https://codepen.io/matheus-mendes-the-styleful/pen/zYgjVwZ).
 
