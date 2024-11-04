@@ -1,6 +1,6 @@
 Projeto: Perfil do Aluno
 
-Este projeto foi desenvolvido por mim, representando uma oportunidade de aprofundar minhas habilidades em HTML, CSS e JavaScript. Desde a concepção da ideia até a sua implementação, a estilização e a funcionalidade foram resultado de um processo criativo e técnico próprio.
+Este projeto foi desenvolvido por mim, representando uma oportunidade de aprofundar minhas habilidades em HTML, CSS e JavaScript. A concepção da ideia nos designs ou seja na parte visual e estilizada; até a sua implementação, a estilização e a funcionalidade foram resultado de um processo criativo meu.
 
 Durante o desenvolvimento, enfrentei desafios em algumas partes do código, o que me levou a buscar soluções na internet e aprender mais sobre as linguagens. Todo o processo de desenvolvimento foi realizado em aproximadamente uma semana.
 
